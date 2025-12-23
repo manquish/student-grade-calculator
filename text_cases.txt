@@ -1,0 +1,11 @@
+Input: Priya, 85
+Output: Grade B
+
+Input: Rahul, 95
+Output: Grade A
+
+Input: Aman, 45
+Output: Grade F
+
+Input: Invalid marks (-10, 120)
+Output: Error message and re-input
